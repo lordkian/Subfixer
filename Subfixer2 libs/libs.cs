@@ -6,6 +6,7 @@ using System.Text;
 namespace Subfixer2_libs
 {
     public delegate void ShowError(string text);
+
     public class libs
     {
         private static List<string> typs;
